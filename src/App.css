@@ -12,7 +12,6 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -50,4 +49,16 @@
 .img3:hover{
   transform: scale(1.2);
   transition: 0.5s transform;
+}
+#n0{
+  position:relative;
+
+}
+#n1{
+  position:relative;
+  top:100px;
+}
+#n2{
+  position:relative;
+  top:150px;
 }
